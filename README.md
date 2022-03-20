@@ -1,6 +1,7 @@
 # Dog-Breed-Classifier
+Project for [Deep Learning Nanodegree](https://www.udacity.com/course/deep-learning-nanodegree--nd101), unit 3.
 
-This is the second Udacity Project from the Deep Learning Nanodegree. It consist of developing an algorithm that could be used as part of a mobile or web app. 
+This project consists of developing an algorithm that could be used as part of a mobile or web app. 
 The main purpose is to classify dog breeds. If a dog is detected in the image, it will provide an estimate of the dog's breed. If a human is detected, it will provide an estimate of the dog breed that is most resembling. 
 
 ## Steps:
